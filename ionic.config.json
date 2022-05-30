@@ -1,0 +1,7 @@
+{
+  "name": "test-pdf-view",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
